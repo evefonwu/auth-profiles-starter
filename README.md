@@ -60,10 +60,10 @@ pnpm install
 cp .env.example .env.local
 # Add your Supabase URL and anon key
 
-# Run database migrations
-# Execute the SQL files in /sql
+# From Supbase SQL editor:
+# Execute SQL files in sql/ folder
 
-# Update Supabase Auth
+# Update Supabase Auth:
 # Add Redirect URL http://localhost:3000/**
 
 # Start development server
